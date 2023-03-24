@@ -36,7 +36,10 @@ body{
     margin: 0;
     font-family: 'Merriweather', serif;
     font-size: 200%;
-    color: #40514E;
+    /*color: #40514E;*/
+   border-color: #736b5e;
+   color:white;
+   
     
 }
 h1{font-size: 5.625rem;
